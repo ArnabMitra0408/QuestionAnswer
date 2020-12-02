@@ -1,5 +1,8 @@
 # QuestionAnswer
 
+<h4><i>This is a question answering system made using BERT. <br/ > adasa</i></h4>
+
+
 ![Screenshot (123)](https://user-images.githubusercontent.com/56645508/100878492-475c3800-34d0-11eb-9be5-832ebf1481a7.png)
 
 
